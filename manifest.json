@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "YouTube History & Auto-Skipper",
-  "version": "2.0",
+  "version": "2.1",
   "description": "Opens YouTube History with Ctrl+Shift+H and automatically fast-forwards/skips pre-roll and mid-roll ads",
   "permissions": [
     "tabs"
