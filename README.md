@@ -37,17 +37,26 @@ This extension unlocks native background play:
 
 ## 📱 How to Use on Android (Screen-Off Playback)
 
-To run this extension on Android:
+### Recommended: Lemur Browser (Direct Play Store Install)
 
-1. **Install Kiwi Browser** from the Google Play Store (Kiwi is a fast Chromium-based browser with full Chrome Extension support).
+[**Lemur Browser**](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) is an actively maintained Chromium-based mobile browser that natively supports Chrome and Edge extensions, including local `.zip` loading:
+
+1. Install **Lemur Browser** from the Google Play Store (developer: *STARLAB.QLY*).
 2. Download **[`historypop.zip`](https://github.com/rudhrahas-dev/YouTube-History-AutoSkipper/releases/download/v3.0/historypop.zip)** onto your phone.
-3. Open Kiwi Browser and navigate to:
-   ```text
-   kiwi://extensions
-   ```
-4. Enable **Developer mode** (toggle in the top-right corner).
-5. Tap **+ (from .zip / .crx / .user.js)** and select the downloaded `historypop.zip` file.
-6. Open **`m.youtube.com`**, play any video, and lock your phone screen or turn off the display — **the audio keeps playing with full lock-screen media controls!**
+3. Open Lemur Browser and tap the **Extensions menu (puzzle icon 🧩)** at the bottom.
+4. Select **"Load unpacked extension (.crx / .zip)"**.
+5. Pick the downloaded `historypop.zip` file — the extension installs immediately!
+6. Open **`m.youtube.com`**, start any video, and lock your screen — **audio continues playing seamlessly with lock-screen media controls!**
+
+---
+
+> [!WARNING]
+> ### ⚠️ Security Warning Regarding "Kiwi Browser"
+> The original Kiwi Browser (by Arnaud Granal / Geometry OU) was discontinued and archived in early 2025.
+> 
+> **Do NOT install unofficial Kiwi clones on app stores** (such as *"Kirton AppRes"* or *"Kiwi Browser - Fast & Quiet"*). These third-party repackages are unauthorized and often inject trackers or adware.
+> 
+> *If you specifically prefer Kiwi Browser, only download the original APK directly from the official [kiwibrowser/src GitHub Releases](https://github.com/kiwibrowser/src/releases).*
 
 ---
 
